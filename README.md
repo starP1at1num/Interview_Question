@@ -17,6 +17,7 @@
  ![Image text](https://github.com/starP1at1num/Interview_Question/blob/master/img_folder/device-2019-12-22-204354.png)
 <p>点击题目就能看到这个题目的描述,输入合法的参数并点击计算按钮能根据参数和题目得出计算结果,<br>
 我也预设了一些参数,可以使输入参数更加便捷一些.<br></p>
+
  ![Image text](https://github.com/starP1at1num/Interview_Question/blob/master/img_folder/device-2019-12-22-204429.png)
 <p>《剑指Offer》这本书本身的编程题的答案是用C++写的,而我这里转换成了java实现<br>
 我先是编写了一个基类,上面有详情界面的基本布局和一些用得多的公共方法.<br>
