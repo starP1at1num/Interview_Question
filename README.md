@@ -26,7 +26,7 @@ goToNext(用于前往下一道题目),<br>
 calculate(用于根据参数计算结果),setDescription(用于提供题目的描述),<br>
 setDefaultTestCase(用于给出默认的测试用例)四个方法.<br>
 在主页面我则添加了一个listView,listView的适配器只需要传入<br>
-题目名,题目简介,<code>在这里插入代码片</code>和详情界面的类,就能把这道题添加进列表中.<br>
+题目名,题目简介,和详情界面的类,就能把这道题添加进列表中.<br>
 后续我会刷一下LeetCode上面的高频题,并且也做成一个安卓app<br>
 (LeetCode上面的好刷一点,因为不用把C++转成java了O.O)<br>
 如果有公司想要联系我可以联系我的邮箱:850928398@qq.com或者我的QQ:850928398<br>
