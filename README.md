@@ -10,7 +10,6 @@
 <body class="stackedit">
   <div class="stackedit__html"><h1><a id="Interview_Question_0"></a>Interview_Question</h1>
 <p>用java实现剑指offer上面的面试题(可以安装在安卓手机上进行输入输出测试)</p>
-<p>本人是刚刚毕业的软件工程专业大学生一枚,已经工作了半年左右.<br>
 现在想要换个更好的公司,所以在工作之余的时间刷一下编程题,以便好好准备面试和笔试.<br>
 我做的是一个能在手机上面跑的软件,上面按题目顺序列出了《剑指Offer》这本书上面的一些题目,<br></p>
     
